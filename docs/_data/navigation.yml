@@ -1,0 +1,45 @@
+- name: Accueil
+  link: /accueil/
+  dropdown:
+    - name: Objectifs
+      link: /accueil/objectifs/
+    - name: Qui sommes nous ?
+      link: /accueil/qui/
+    - name: Contact
+      link: /accueil/contact/
+- name:  Actu
+  link: /actu/19chantier/
+  dropdown:
+    - name: Chantier'19
+      link: /actu/19chantier/
+    - name: Solidarité Internationale'17
+      link: /actu/17scouts/
+    - name: Programme'17
+      link: /actu/17programme/
+    - name: Inauguration'16
+      link: /actu/16inauguration/
+    - name: Ouverture'16
+      link: /actu/16ouverture/
+    - name: Concerts'16
+      link: /actu/16concert/
+    - name: Construction'14
+      link: /actu/14construction/
+    - name: Chateau d'eaux'14
+      link: /actu/14chateaux/
+- name: Don
+  link: /don/
+  dropdown:
+    - name: Matériel médical
+      link: /don/materiel/
+- name: Adhérant
+  link: /adherant/
+  dropdown:
+    - name: Adhérer
+      link: /adherant/adherer/
+    - name: AG
+      link: /adherant/
+- name: Découverte
+  link: /#
+  dropdown:
+    - name: Showcase
+      link: /showcase/
