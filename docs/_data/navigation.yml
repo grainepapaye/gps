@@ -2,11 +2,11 @@
   link: /accueil/
   dropdown:
     - name: Objectifs
-      link: /accueil/objectifs/
+      link: /accueil/objectifs
     - name: Qui sommes nous ?
-      link: /accueil/qui/
+      link: /accueil/qui
     - name: Contact
-      link: /accueil/contact/
+      link: /accueil/contact
 - name:  Actu
   link: /actu/19chantier/
   dropdown:
