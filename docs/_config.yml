@@ -32,7 +32,8 @@ github_username:  grainepapaye
 # Build settings
 # theme: minima
 #theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: grainepapaye/bulma-clean-theme
 plugins:
   - jekyll-feed
 
