@@ -43,5 +43,11 @@
 - name: Découverte
   link: /#
   dropdown:
-    - name: Showcase
-      link: /showcase/
+    - name: Découverte
+      link: /decouverte/cameroun
+  dropdown:
+    - name: Cameroun
+      link: /decouverte/cameroun
+    - name: Yaoundé
+      link: /decouverte/yaounde
+      

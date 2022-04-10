@@ -20,5 +20,5 @@ show_sidebar: false
 
 Pour devenir membre, c'est simple, vous pouvez :
 
-   - adhérer en ligne, via la plateforme Helloasso (cf lien)
-   - OU télécharger le formulaire d'adhésion et nous le retourner par courrier
+   - adhérer en ligne, via la plateforme Helloasso (cf [lien](http://www.helloasso.com/associations/graines-de-papaye-solidaire/adhesions/adhesion-2015){:target="_blank" rel="noopener"})
+   - OU télécharger le [formulaire d'adhésion](adhesion.pdf){:target="_blank" rel="noopener"} et nous le retourner par courrier
