@@ -1,0 +1,15 @@
+style: is-light
+items:
+  - title: 
+    subtitle: 
+    icon: fa-facebook
+    icon_brand: true
+    call_to_action_name: Presentation
+    call_to_action_link: https://www.facebook.com/grainesdepapayesolidaire/
+  - title: 
+    icon:     fa-hand-holding-heart
+    call_to_action_name: Faites un don
+  - icon: fa-youtube
+    icon_brand: true
+    call_to_action_name: A coeur ouvert
+    call_to_action_link: https://youtu.be/jwQp5hGSbQA

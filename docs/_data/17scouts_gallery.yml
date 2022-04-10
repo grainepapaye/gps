@@ -1,0 +1,31 @@
+# Example 17scouts_gallery.yml
+
+
+- title: Solidarité internationale
+  mel: 01/12/2017
+  images:
+    - link: images/gallery/17scouts/01_group_1600x1064.jpg
+      large_link: images/gallery/17scouts/01_group_1600x1064.jpg
+      alt: The alt text for the image
+      description: |-
+
+        Les jeunes français ont été accueillis à leur arrivée par la famille du partenaire français, par Docteur Sœur Elise Bana « Directrice de l’Hôpital » et le grand frère de Gaëtan « Monseigneur Philippe Alain Mbarga, évêque du diocèse d'Ebowa »
+      ratio: is-16by9
+    - link: images/gallery/17scouts/02_accueil_1600x1064.jpg
+      large_link: images/gallery/17scouts/02_accueil_1600x1064.jpg
+      alt: The alt text for the image
+      description: |-
+        Inauguration du chateau d'eau, le vendredi 21 juillet 2017 avec la participation du sous-préfet, de l’évêque d’Ebolowa et de l’association France Volontaire. C’était un moment solennel mais aussi festif et fraternel.
+      ratio: is-16by9
+    - link: images/gallery/17scouts/03_travaux_1600x900.jpg
+      large_link: images/gallery/17scouts/03_travaux_1600x900.jpg
+      alt: The alt text for the image
+      ratio: is-16by9
+      description: |-
+        Très vite, le chantier démarre et réunit ouvriers, jeunes et compagnons. L’objectif était de réhabiliter, aménager la clôture et l’entrée autour du grand portail afin de faciliter l’accès et le début du pavage de la cour de l’hôpital. Ils ont également fortifié, finalisé et embelli toute la clôture autour de l’hôpital pour des raisons esthétiques, pratiques et sécuritaires.
+    - link: images/gallery/17scouts/04_travaux_1600x900.jpg
+      large_link: images/gallery/17scouts/04_travaux_1600x900.jpg
+      alt: The alt text for the image
+      ratio: is-16by9
+      description: |-
+        Travailler et partager la vie d’autres jeunes d’une culture différente sur place, permet de vivre intensément cette différence culturelle et de s’enrichir mutuellement de cette expérience.

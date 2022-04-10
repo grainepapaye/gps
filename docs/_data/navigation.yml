@@ -11,21 +11,21 @@
   link: /actu/19chantier/
   dropdown:
     - name: Chantier'19
-      link: /actu/19chantier/
+      link: /actu/19chantier
     - name: Solidarité Internationale'17
-      link: /actu/17scouts/
+      link: /actu/17scouts
     - name: Programme'17
-      link: /actu/17programme/
+      link: /actu/17programme
     - name: Inauguration'16
-      link: /actu/16inauguration/
+      link: /actu/16inauguration
     - name: Ouverture'16
-      link: /actu/16ouverture/
+      link: /actu/16ouverture
     - name: Concerts'16
-      link: /actu/16concert/
+      link: /actu/16concert
     - name: Construction'14
-      link: /actu/14construction/
+      link: /actu/14construction
     - name: Chateau d'eaux'14
-      link: /actu/14chateaux/
+      link: /actu/14chateaux
 - name: Don
   link: /don/
   dropdown:

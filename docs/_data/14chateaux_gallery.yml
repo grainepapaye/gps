@@ -1,0 +1,30 @@
+# Example 14chateaux_gallery.yml
+
+- title: L'eau
+  mel: 24/12/2014
+  images:
+    - link: images/gallery/14chateaux/01_puits_1024x682.jpg
+      large_link: images/gallery/14chateaux/01_puits_1024x682.jpg
+      alt: The alt text for the image
+      description: |-
+        Légèrement en amont de l'hôpital, avec une vue imprenable sur la forêt et l'horizon se trouvent les puits, un premier avec sa dalle de béton.
+      ratio: is-4by3
+    - link: images/gallery/14chateaux/02_puits_1024x682.jpg
+      large_link: images/gallery/14chateaux/02_puits_1024x682.jpg
+      alt: The alt text for the image
+      description: |-
+        Un deuxieme, distant de quelques dizaines de mètres, encore en train d'être aménagé.
+      ratio: is-4by3
+    - link: images/gallery/14chateaux/03_chateau_light.jpg
+      large_link: images/gallery/14chateaux/03_chateau_768x1024.jpg
+      alt: The alt text for the image
+      description: |-
+        Pour vous donner une idée, voici des photos de châteaux d'eau utilisés au Cameroun.
+      ratio: is-4by3
+    - link: images/gallery/14chateaux/04_chateau_light.jpg
+      large_link: images/gallery/14chateaux/04_chateau_768x1024.jpg
+      alt: The alt text for the image
+      description: |-
+        En voici un second exemple.
+      ratio: is-4by3
+      
