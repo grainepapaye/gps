@@ -41,7 +41,10 @@
     - name: AGs
       link: /adherants/ag
 - name: Découverte
-  link: /#
+  link: /decouverte/cameroun
   dropdown:
-    - name: Showcase
-      link: /showcase/
+    - name: Cameroun
+      link: /decouverte/cameroun
+    - name: Yaoundé
+      link: /decouverte/yaounde
+      

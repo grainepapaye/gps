@@ -1,0 +1,37 @@
+# Example 14chateaux_gallery.yml
+
+- title: Banlieue de Yanoundé
+  mel: 24/12/2014
+  images:
+    - link: images/gallery/banlieueyaounde/banlieue1.jpg
+      large_link: images/gallery/banlieueyaounde/banlieue1.jpg
+      alt: The alt text for the image
+      description: |-
+        En sortant de l'aéroport de Yaoundé, nous empruntons la route principale et traversons ainsi la banlieue de la capitale ...
+      ratio: is-4by3
+    - link: images/gallery/banlieueyaounde/banlieue2.jpg
+      large_link: images/gallery/banlieueyaounde/banlieue2.jpg
+      alt: The alt text for the image
+      description: |-
+        Les abords de Yaoundé sont très valonnés : des rochers très massifs affleurent par endroits sous une terre très rouge.
+      ratio: is-4by3
+    - link: images/gallery/banlieueyaounde/banlieue3.jpg
+      large_link: iimages/gallery/banlieueyaounde/banlieue3.jpg
+      alt: The alt text for the image
+      description: |-
+        Magasin de mobilier à ciel ouvert !
+      ratio: is-4by3
+    - link: images/gallery/banlieueyaounde/banlieue4.jpg
+      large_link: images/gallery/banlieueyaounde/banlieue4.jpg
+      alt: The alt text for the image
+      description: |-
+        La route de terre qui relie Mbalmayo et le sanctuaire marial Reine de la Paix situé sur une colline proche de la ville.
+      ratio: is-4by3
+    - link: images/gallery/banlieueyaounde/banlieue5.jpg
+      large_link: images/gallery/banlieueyaounde/banlieue5.jpg
+      alt: The alt text for the image
+      description: |-
+        La route entre Mbalmayo et Yaoundé au sortir de Mbalmayo.
+      ratio: is-4by3
+      
+      
