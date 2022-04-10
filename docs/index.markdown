@@ -1,6 +1,6 @@
 ---
 title: Graines de papaye solidaire
-subtitle: Beta new GPS site
+subtitle: Le site de GPS
 layout: page
 callouts: home_callouts
 show_sidebar: false
