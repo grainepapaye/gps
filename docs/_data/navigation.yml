@@ -41,10 +41,7 @@
     - name: AGs
       link: /adherants/ag
 - name: Découverte
-  link: /#
-  dropdown:
-    - name: Découverte
-      link: /decouverte/cameroun
+  link: /decouverte/cameroun
   dropdown:
     - name: Cameroun
       link: /decouverte/cameroun
