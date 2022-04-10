@@ -33,13 +33,13 @@
       link: /dons/materiel
     - name: Faire un don
       link: /dons/don
-- name: Adhérant
-  link: /adherant/
+- name: Adhérants
+  link: /adherants/adherer/
   dropdown:
     - name: Adhérer
-      link: /adherant/adherer/
-    - name: AG
-      link: /adherant/
+      link: /adherants/adherer/
+    - name: AGs
+      link: /adherants/ag
 - name: Découverte
   link: /#
   dropdown:

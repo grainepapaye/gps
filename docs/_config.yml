@@ -94,3 +94,8 @@ collections:
     layout: defaults
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+  adherants:
+    output: true
+    layout: defaults
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
