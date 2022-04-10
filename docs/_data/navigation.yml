@@ -34,12 +34,12 @@
     - name: Faire un don
       link: /dons/don
 - name: Adhérant
-  link: /adherant/
+  link: /adherant/adherer
   dropdown:
     - name: Adhérer
-      link: /adherant/adherer/
+      link: /adherant/adherer
     - name: AG
-      link: /adherant/
+      link: /adherant/ag
 - name: Découverte
   link: /#
   dropdown:
