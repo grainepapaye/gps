@@ -1,0 +1,12 @@
+convert 01_IMG_2240_comp.jpg -resize 800x600 01_IMG_2240_comp_800x600.jpg
+convert 02_IMG_2246_comp.jpg -resize 800x600 02_IMG_2246_comp_800x600.jpg
+convert 03_IMG_2250_comp.jpg -resize 800x600 03_IMG_2250_comp_800x600.jpg
+convert 04_IMG_2266_comp.jpg -resize 800x600 04_IMG_2266_comp_800x600.jpg
+convert 05_P1000314_comp.jpg -resize 800x600 05_P1000314_comp_800x600.jpg
+convert 06_P1000372_comp.jpg -resize 800x600 06_P1000372_comp_800x600.jpg
+convert 07_P1000352_comp.jpg -resize 800x600 07_P1000352_comp_800x600.jpg
+convert 08_P1000312_comp.jpg -resize 800x600 08_P1000312_comp_800x600.jpg
+convert 09_P1000342_comp.jpg -resize 800x600 09_P1000342_comp_800x600.jpg
+convert 10_P1000425_comp.jpg -resize 800x600 10_P1000425_comp_800x600.jpg
+convert 11_P1000431_comp.jpg -resize 800x600 11_P1000431_comp_800x600.jpg
+convert 12_P1000418_comp.jpg -resize 800x600 12_P1000418_comp_800x600.jpg

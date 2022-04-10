@@ -1,0 +1,26 @@
+# Example m_gallery
+
+# link: https://via.placeholder.com/800x450 #
+#    - link: images/gallery/chantiers19/chantier2019_1.jpg
+#      large_link: https://via.placeholder.com/1200x675
+#      alt: The alt text for the image
+#      description: |-
+#        The image description can be written in **markdown** if required
+#      ratio: is-16by9
+
+
+- title: Inauguration officielle
+  mel: 01/12/2017
+  images:
+    - link: images/gallery/19chantier/01_groupe_light.jpg
+      large_link: images/gallery/19chantier/01_groupe_1024x768.jpg
+      alt: The alt text for the image
+      description: |-
+        Lundi 12 août, **l'ambassade de France** était présente à **l'hôpital Saint Thomas de Nsimalen** (Cameroun) pour visiter le chantier réalisé par quatre jeunes volontaires français Scouts et Guides De France en collaboration avec des ouvriers et jeunes camerounais.
+      ratio: is-4by3
+    - link: images/gallery/19chantier/02_groupe_light.jpg
+      large_link: images/gallery/19chantier/02_groupe_1024x768.jpg
+      alt: The alt text for the image
+      description: |-
+        M. Philippe Larrieu, chargé d'affaires de l'ambassade, a encouragé le travail fourni par l'association française **Graines De Papaye Solidaire** et son partenariat avec de jeunes français pour promouvoir la santé au Cameroun.
+      ratio: is-4by3
