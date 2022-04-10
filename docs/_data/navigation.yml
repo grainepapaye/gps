@@ -34,10 +34,10 @@
     - name: Faire un don
       link: /dons/don
 - name: Adhérants
-  link: /adherants/adherer/
+  link: /adherants/adherer
   dropdown:
     - name: Adhérer
-      link: /adherants/adherer/
+      link: /adherants/adherer
     - name: AGs
       link: /adherants/ag
 - name: Découverte
