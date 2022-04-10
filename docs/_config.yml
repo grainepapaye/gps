@@ -57,6 +57,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+kramdown:
+  input: Kramdown
 
 # Start parameterizing site
 defaults:
@@ -83,6 +85,11 @@ collections:
     image: https://via.placeholder.com/800x600
     show_sidebar: false
   actu:
+    output: true
+    layout: defaults
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
+  dons:
     output: true
     layout: defaults
     image: https://via.placeholder.com/800x600

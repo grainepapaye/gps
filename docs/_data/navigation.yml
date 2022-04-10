@@ -26,11 +26,13 @@
       link: /actu/14construction
     - name: Chateau d'eaux'14
       link: /actu/14chateaux
-- name: Don
-  link: /don/
+- name: Dons
+  link: /dons/don
   dropdown:
     - name: Matériel médical
-      link: /don/materiel/
+      link: /dons/materiel
+    - name: Faire un don
+      link: /dons/don
 - name: Adhérant
   link: /adherant/
   dropdown:
