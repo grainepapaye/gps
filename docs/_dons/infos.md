@@ -3,6 +3,7 @@ title: Dons
 subtitle: Matériel médical
 layout: page
 show_sidebar: false
+hero_image: ../images/heroes/hero_3.jpg
 ---
 
 # Info Carte

@@ -3,6 +3,7 @@ title: Dons
 subtitle: Matériel médical
 layout: page
 show_sidebar: false
+hero_image: ../images/heroes/hero_3.jpg
 ---
 
 Dans le cadre du fonctionnement de l'hôpital Saint Thomas, les professionnels de santé, les cliniques et les hôpitaux qui le souhaitent peuvent nous faire don de matériel médical.
