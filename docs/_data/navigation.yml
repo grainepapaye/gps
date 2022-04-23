@@ -1,5 +1,5 @@
 - name: Accueil
-  link: /accueil/
+  link: /accueil/qui
   dropdown:
     - name: Objectifs
       link: /accueil/objectifs

@@ -3,6 +3,7 @@ title: Objectifs
 subtitle:
 layout: page
 show_sidebar: false
+hero_image: ../images/heroes/hero_1.jpg
 ---
 
 # Contexte

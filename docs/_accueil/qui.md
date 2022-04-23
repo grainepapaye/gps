@@ -3,6 +3,7 @@ title: Qui sommes nous ?
 subtitle:
 layout: page
 show_sidebar: false
+hero_image: ../images/heroes/hero_1.jpg
 ---
 # Qui sommes nous ?
 Notre association a été fondée en décembre 2013 par trois joyeux drilles: un moniteur éducateur, une étudiante en médecine et une étudiante en école d'ingénieur. Elle a pour mission de soutenir la formation et l'éducation en matière de santé ainsi que l'assistance aux personnes malades n'ayant qu'un faible revenu au Cameroun. C'est une association à but non lucratif ; tous les membres travaillent de façon bénévole.

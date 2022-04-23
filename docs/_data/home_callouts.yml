@@ -9,6 +9,7 @@ items:
   - title: 
     icon:     fa-hand-holding-heart
     call_to_action_name: Faites un don
+    call_to_action_link: dons/don
   - icon: fa-youtube
     icon_brand: true
     call_to_action_name: A coeur ouvert
