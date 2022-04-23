@@ -1,0 +1,29 @@
+# Example 14chateaux_gallery.yml
+
+- title: Plantes du Cameroun
+  mel: 24/12/2014
+  images:
+    - link: images/gallery/plantes/ananas.jpg
+      large_link: images/gallery/plantes/ananas.jpg
+      alt: The alt text for the image
+      description: |-
+        L'ananas...
+      ratio: is-4by3
+    - link: images/gallery/plantes/bec_perroquet.jpg
+      large_link: images/gallery/plantes/bec_perroquet.jpg
+      alt: The alt text for the image
+      description: |-
+        Le bec de perroquet...
+      ratio: is-4by3
+    - link: images/gallery/plantes/cacaoyer.jpg
+      large_link: images/gallery/plantes/cacaoyer.jpg
+      alt: The alt text for the image
+      description: |-
+        Le cacaoyer...
+      ratio: is-4by3
+    - link: images/gallery/plantes/manguier.jpg
+      large_link: images/gallery/plantes/manguier.jpg
+      alt: The alt text for the image
+      description: |-
+        Le manguier...
+      ratio: is-4by3
