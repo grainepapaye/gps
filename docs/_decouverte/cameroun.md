@@ -3,6 +3,7 @@ title: Découverte
 subtitle: Cameroun
 layout: page
 show_sidebar: false
+hero_image: ../images/heroes/hero_4.jpg
 ---
 
 # Pays
@@ -17,6 +18,6 @@ GMap:ll=3.516590,11.499381
 banlieue de Yaoundé
 
 
-   - La capitale est Yaoundé. Très étendu en latitude, le Cameroun est baigné à l'Ouest par les eaux du Golfe De Guinée ; à l'Est il est frontalier du Congo. Pour les curieux, consultez les pages Géographie du Cameroun de Wikipedia).
-   - Les langues officielles sont l'Anglais et et le Français. On y parle de nombreux langues locales dont l'Ewondo qui est parlé autour de Yaoundé. Wikipedia vous permettra d'apprécier la diversité linguistique de ce pays : Langues du Cameroun.
+   - La capitale est Yaoundé. Très étendu en latitude, le Cameroun est baigné à l'Ouest par les eaux du Golfe De Guinée ; à l'Est il est frontalier du Congo. Pour les curieux, consultez les pages [Géographie du Cameroun](http://fr.wikipedia.org/wiki/G%c3%a9ographie_du_Cameroun) de Wikipedia).
+   - Les langues officielles sont l'Anglais et et le Français. On y parle de nombreux langues locales dont l'Ewondo qui est parlé autour de Yaoundé. Wikipedia vous permettra d'apprécier la diversité linguistique de ce pays : [Langues du Cameroun](http://fr.wikipedia.org/wiki/Langues_du_Cameroun).
 
