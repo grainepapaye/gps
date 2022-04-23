@@ -2,6 +2,7 @@
 title: Solidarité internationale'17
 gallery: 17scouts_gallery
 layout: gps_default
+hero_image: ../images/heroes/hero_2.jpg
 ---
 
 # Les objectifs
@@ -16,3 +17,11 @@ L’hôpital St Thomas a été fondé grâce à des dons collectés en Europe et
 Dans le cadre d'un projet de solidarité internationale, **les Compagnons HIMYC**, Scouts et Guides de France accompagnés de **l'association Graines de Papaye Solidaire** ont été à **l’hôpital St Thomas** de Nsimalen au Cameroun du 17 juillet 2017 jusqu'au 18 août 2017.
 
 A leur arrivée les jeunes apprennent une nouvelle : les représentants de l’ambassade de France à Yaoundé se déplaceront sur le chantier de l’hôpital pour inaugurer le château d’eau (financé par les dons français) et encourager les jeunes français dans leurs initiatives de solidarité en partenariat avec les jeunes camerounais. Cette cérémonie était donc organisée le vendredi 21 juillet 2017 avec la participation du sous-préfet, de l’évêque d’Ebolowa et de l’association France Volontaire. C’était un moment solennel mais aussi festif et fraternel. La musique et la danse abolissent les frontières entre jeunes d’origines différentes rendant plus facile la rencontre de l’autre.
+
+# Reportages
+
+Quelques vidéos de la journée d'inauguration:
+
+ - Discours de Monseigneur [Philippe Alain Mbarga](https://youtu.be/LvTKQbCZaaQ){:target="_blank" rel="noopener"} 
+ - Discours du [représentant de l'Ambassadeur de France](https://youtu.be/ZBEn-IQbGog){:target="_blank" rel="noopener"} 
+

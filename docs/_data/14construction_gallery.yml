@@ -1,46 +1,42 @@
-# Example 14construction_gallery.yml
 
-# 01_fondation_1632x1224.jpg
-# 02_centreformation_1024x682.jpg
-# 03_murs_1024x682.jpg
-# 04_appart_1024x682.jpg
-# 05_appart_1024x682.jpg
-# 06_batjaune_1024x682.jpg
-# 07_vuegenerale_1024x682.jpg
-# 08_a1-bat_3568x2376.jpg
-# 09_1-batbis_3568x2376.jpg
-# 10_2-chat_2376x3568.jpg
-# 11_4-chat_3568x2376.jpg
-# 12_3-chat_3568x2376.jpg
-# 13_5-elec_3568x2376.jpg
-# 14_6-charp_3568x2376.jpg
-# 15_7-vol_3568x2376.jpg
-# 16_8-vol_3568x2376.jpg
-# 17_9-ope_2376x3568.jpg
-# 18_10-clot_3568x2376.jpg
-# 19_11-vue_3568x2376.jpg
-
-- title: Construction 
+- title: Fondations de l'hôpital
   mel: 25/05/2013
+  topo: |-
+         Les travaux de construction de l'hopital ont débutés en 2012. Il est situé à proximité du centre de formation.
   images:
     - link: images/gallery/14construction/01_fondation_1632x1224.jpg
       large_link: images/gallery/14construction/01_fondation_1632x1224.jpg
       alt: The alt text for the image
       ratio: is-4by3
       description: |-
-        Fondationsde l'hôpital (en ligne 25/05/2013). Avancée des travaux à l'été 2012.
+        Fondationsde l’hôpital. Avancée des travaux à l’été 2012.
+
+
+ 
+- title: Le centre de formation 
+  mel: 25/05/2013
+  topo: |-
+         Voici le centre de formation accolé au futur hôpital. Ce centre forme des jeunes démunis à la couture et à la menuiserie. Il été inauguré en 2013. Cela donne une idée du style architectural de l'hôpital une fois construit.
+  images:
     - link: images/gallery/14construction/02_centreformation_1024x682.jpg
       large_link: images/gallery/14construction/02_centreformation_1024x682.jpg
       alt: The alt text for the image
       ratio: is-4by3
       description: |-
-        Le centre de formation (en ligne 25/05/2013). Voici le centre de formation accolé au futur hôpital. Ce centre forme des jeunes démunis à la couture et à la menuiserie. Il été inauguré en 2013. Cela donne une idée du style architectural de l'hôpital une fois construit.
+        Centre de formation accolé au futur hôpital.
+
+ 
+- title: Visite à Nsimalen en déc. 2014.
+  mel: 02/01/2015
+  topo: |-
+         Veille de Noël 2014... Le thermomètre affiche un gentil 27°C; pas de neige à l'horizon donc. Mais le chantier de construction de l'hôpital St Thomas est bien visible, lui.
+  images:
     - link: images/gallery/14construction/03_murs_1024x682.jpg
       large_link: images/gallery/14construction/03_murs_1024x682.jpg
       alt: The alt text for the image
       ratio: is-4by3
       description: |-
-        Visite à Nsimalen en déc. 2014 (en ligne 02/01/2015). Veille de Noël 2014... Le thermomètre affiche un gentil 27°C; pas de neige à l'horizon donc. Mais le chantier de construction de l'hôpital St Thomas est bien visible, lui. Comme on le montrent les photos, il est déjà bien avancé, avec des murs qui s'élèvent sur deux étages. Un 3e et dernier étage est prévu avant de poser le toit.
+         Comme le montrent les photos, l'hôpital est déjà bien avancé, avec des murs qui s'élèvent sur deux étages. Un 3e et dernier étage est prévu avant de poser le toit.
     - link: images/gallery/14construction/04_appart_1024x682.jpg
       large_link: images/gallery/14construction/04_appart_1024x682.jpg
       alt: The alt text for the image
@@ -65,12 +61,20 @@
       ratio: is-4by3
       description: |-
         Vue générale de l'hôpital Saint Thomas depuis la tête des puits.
+
+
+ 
+- title: Visite à Nsimalen en nov. 2015.
+  mel: 30/12/2015
+  topo: |-
+         Les associations Kinderhilfe und St. Thomas-Hospital in Kamerun (association allemande contributrice principale) et "Graines de Papaye Solidaires" ont visité le chantier à Nsimalen du 16 au 27 novembre 2015. Les travaux de construction de l'hôpital St Thomas ont bien avancé. Récemment, le toit a été posé et les raccordements électriques commencent à être posés. Le château d'eau est terminé mais il reste à poser la canalisation de raccordement vers les bâtiments..
+  images:
     - link: images/gallery/14construction/08_a1-bat_3568x2376.jpg
       large_link: images/gallery/14construction/08_a1-bat_3568x2376.jpg
       alt: The alt text for the image
       ratio: is-4by3
       description: |-
-        Visite à Nsimalen en nov. 2015 (mis en ligne le 30/12/2015). Les associations Kinderhilfe und St. Thomas-Hospital in Kamerun (association allemande contributrice principale) et "Graines de Papaye Solidaires" ont visité le chantier à Nsimalen du 16 au 27 novembre 2015. Les travaux de construction de l'hôpital St Thomas ont bien avancé. Récemment, le toit a été posé et les raccordements électriques commencent à être posés. Le château d'eau est terminé mais il reste à poser la canalisation de raccordement vers les bâtiments. Vue générale du chantier de l'hôpital.
+         Vue générale du chantier de l'hôpital.
     - link: images/gallery/14construction/09_1-batbis_3568x2376.jpg
       large_link: images/gallery/14construction/09_1-batbis_3568x2376.jpg
       alt: The alt text for the image
@@ -125,6 +129,7 @@
       ratio: is-4by3
       description: |-
         Un couloir du 1er étage desservant les salles de soin et d'opération.
+    - link: images/gallery/14construction/18_10-clot_3568x2376.jpg
       large_link: images/gallery/14construction/18_10-clot_3568x2376.jpg
       alt: The alt text for the image
       ratio: is-4by3
