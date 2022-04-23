@@ -8,7 +8,7 @@
     - name: Contact
       link: /accueil/contact
 - name:  Actu
-  link: /actu/19chantier/
+  link: /actu/19chantier
   dropdown:
     - name: Chantier'19
       link: /actu/19chantier
