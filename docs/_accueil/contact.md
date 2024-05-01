@@ -13,8 +13,8 @@ hero_image: ../images/heroes/hero_1.jpg
 message="
 	Association Graines de Papaye Solidaire
 	Président : Mr ZIGA MBARGA
-	72 rue Jean Raynal 
-	91390 Morsang sur Orge
+	6 bis rue de Viry 
+	91700 Sainte Geneviève des Bois
 "
 icon="false"
 status="is-success" %}
@@ -23,8 +23,8 @@ status="is-success" %}
 {% include notification.html
 message="
     Association Graines de Papaye Solidaire
-    72 rue Jean Raynal 
-    91390 Morsang sur Orge
+	6 bis rue de Viry 
+	91700 Sainte Geneviève des Bois
 "
 icon="false"
 status="is-success" %}
