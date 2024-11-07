@@ -17,8 +17,8 @@ Nous vous proposons 2 méthodes de paiement:
 message="
     Association Graines de Papaye Solidaire
     Président : M. ZIGA MBARGA
-    72 rue Jean Raynal 
-    91390 Morsang sur Orge
+    6 bis rue de Viry 
+    91700 Sainte Geneviève des Bois
 "
 icon="false"
 status="is-success" %}
