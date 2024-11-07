@@ -16,7 +16,6 @@ Nous vous proposons 2 méthodes de paiement:
 {% include notification.html
 message="
     Association Graines de Papaye Solidaire
-    Président : M. ZIGA MBARGA
     6 bis rue de Viry 
     91700 Sainte Geneviève des Bois
 "
