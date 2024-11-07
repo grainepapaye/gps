@@ -10,4 +10,5 @@ hero_image: ../images/heroes/hero_3.jpg
 
 - Assemblée générale du 29/11/2014 [ici](AG_GPS_2014.pdf){:target="_blank" rel="noopener"}
 - Assemblée générale du 05/02/2017 [ici](AG_GPS_2017.pdf){:target="_blank" rel="noopener"}
+- Assemblée générale du 28/07/2024 [ici](AG_GPS_2024.pdf){:target="_blank" rel="noopener"}
 
