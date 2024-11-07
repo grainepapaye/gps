@@ -1,10 +1,10 @@
 - name: Accueil
   link: /accueil/qui
   dropdown:
-    - name: Objectifs
-      link: /accueil/objectifs
     - name: Qui sommes nous ?
       link: /accueil/qui
+    - name: Objectifs
+      link: /accueil/objectifs
     - name: Contact
       link: /accueil/contact
 - name:  Actu
