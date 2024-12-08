@@ -24,6 +24,11 @@
       link: /actu/14construction
     - name: Chateau d'eaux'14
       link: /actu/14chateaux
+- name: Presse
+  link: /presse/parisien
+  dropdown:
+    - name: La presse en parle
+      link: /presse/parisien
 - name: Dons
   link: /dons/don
   dropdown:
