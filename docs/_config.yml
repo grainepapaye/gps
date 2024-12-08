@@ -91,6 +91,11 @@ collections:
     layout: defaults
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+  presse:
+    output: true
+    layout: defaults
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
   dons:
     output: true
     layout: defaults
